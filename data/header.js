@@ -4,8 +4,8 @@ export const login = [
 ];
 
 export const navigation = [
-  { title: "Works", href: "/works" },
-  { title: "About Us", href: "/about-us" },
-  { title: "Clients", href: "/clients" },
-  { title: "Contact", href: "/contact" }
+  { title: "Works", href: "#" },
+  { title: "About Us", href: "#AboutUs" },
+  { title: "Clients", href: "#Clients" },
+  { title: "Contact", href: "#Contact" }
 ];

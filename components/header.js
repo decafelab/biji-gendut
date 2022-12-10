@@ -64,7 +64,7 @@ export const Header = () => {
                             <Link href="#" class="block py-2 pr-4 pl-3 text-white" aria-current="page">Works</Link>
                         </li>
                         <li>
-                            <Link href="#About Us" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">About Us</Link>
+                            <Link href="#AboutUs" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">About Us</Link>
                         </li>
                         <li>
                             <Link href="#Clients" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">Clients</Link>
