@@ -61,13 +61,13 @@ export const Header = () => {
                 <div class="hidden justify-between items-center w-full sm:flex sm:w-auto">
                     <ul class="flex flex-col mt-4 font-medium sm:flex-row space-x-1 lg:space-x-8 sm:mt-0">
                         <li>
-                            <Link href="#" class="block py-2 pr-4 pl-3 text-white" aria-current="page">Works</Link>
+                            <Link href="/" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">Works</Link>
                         </li>
                         <li>
-                            <Link href="#AboutUs" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">About Us</Link>
+                            <Link href="/#AboutUs" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">About Us</Link>
                         </li>
                         <li>
-                            <Link href="#Clients" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">Clients</Link>
+                            <Link href="/#Clients" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">Clients</Link>
                         </li>
                         <li>
                             <Link href="#Contact" class="block py-2 pr-4 pl-3 text-gray-300 hover:text-white">Contact</Link>

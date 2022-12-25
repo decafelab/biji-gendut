@@ -16,10 +16,10 @@ export default function Home() {
         <Header2></Header2>
 
         {/* ======Hero Image====== */}
-        {/* <div class="w-full h-[400px] lg:h-[600px] xl:h-[800px] bg-[url('/images/portfolio/carsome.jpg')] bg-cover bg-center"></div> */}
+        {/* <div class="w-full h-[450px] lg:h-[600px] xl:h-full bg-[url('/images/portfolio/carsome.jpg')] bg-cover bg-center"></div> */}
 
         {/* ======Hero Video====== */}
-        <video muted autoPlay loop playsInline class="w-full h-[400px] lg:h-[600px] xl:h-[800px] object-cover"
+        <video muted autoPlay loop playsInline class="w-full h-[450px] lg:h-[600px] xl:h-full object-cover"
             poster="./images/portfolio/carsome.jpg"
             src="./images/portfolio/carsome/sindhubharata_20200911_212819_0.mp4">
         </video>
