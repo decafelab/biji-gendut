@@ -37,27 +37,27 @@ export default function Home() {
             </div>  
         </div>
         
-        {/* ======Video====== */}
+        {/* ======Module3====== */}
         <div class="p-4 lg:p-8 xl:p-16 flex flex-col items-center w-full lg:w-5/6 xl:w-4/6 mx-auto">
             <div class="relative h-0 overflow-hidden max-w-full w-full pb-[56.25%]">
                 <div>
-                    <img src="/images/hero-bg.jpg"/>
+                    <img src="./images/portfolio/carsome/module3/brand-identity-mockup.jpg"/>
                 </div>
-                <iframe class="absolute top-0 left-0 w-full h-full" src="https://www.youtube.com/embed/tIpDk0uB3II" title="YouTube video player"></iframe>
+                {/* <iframe class="absolute top-0 left-0 w-full h-full" src="https://www.youtube.com/embed/tIpDk0uB3II" title="YouTube video player"></iframe> */}
             </div>
         </div>
         
-        {/* ======Gallery1====== */}
+        {/* ======Module4====== */}
         <div class="bg-[#f1f2f2] dark:bg-[#1a1a1a]">
             <div class="p-4 lg:p-8 xl:p-16 grid grid-cols-2 gap-3 w-full lg:w-5/6 xl:w-4/6 mx-auto">
-                <img src="./images/hero-bg.jpg"/>
-                <img src="./images/hero-bg.jpg"/>
-                <img src="./images/hero-bg.jpg"/>
-                <img src="./images/hero-bg.jpg"/>
+                <img src="./images/portfolio/carsome/module4/business-card.jpg"/>
+                <img src="./images/portfolio/carsome/module4/digital-billboard.jpg"/>
+                <img src="./images/portfolio/carsome/module4/ig.jpg"/>
+                <img src="./images/portfolio/carsome/module4/website.jpg"/>
             </div>
         </div>
 
-        {/* ======Gallery2====== */}
+        {/* ======Module5====== */}
         <div>
             <div class="p-4 lg:p-8 xl:p-16 grid grid-cols-3 gap-3 w-full lg:w-5/6 xl:w-4/6 mx-auto">
                 <img src="./images/portfolio/cafe.jpg"/>
@@ -66,7 +66,7 @@ export default function Home() {
             </div>
         </div>
 
-        {/* ======Gallery3====== */}
+        {/* ======Module6====== */}
         <div class="bg-[#f1f2f2] dark:bg-[#1a1a1a]">
             <div class="p-4 lg:p-8 xl:p-16 grid grid-cols-3 gap-3 w-full lg:w-5/6 xl:w-4/6 mx-auto">
                 <img src="./images/portfolio/mana.jpg"/>
